@@ -15,6 +15,9 @@
 		E53A4B6927B121EA00B76C00 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E53A4B6727B121EA00B76C00 /* Main.storyboard */; };
 		E53A4B6B27B121EC00B76C00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E53A4B6A27B121EC00B76C00 /* Assets.xcassets */; };
 		E53A4B6E27B121EC00B76C00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E53A4B6C27B121EC00B76C00 /* LaunchScreen.storyboard */; };
+		F40FEBF827B1667B00FC6465 /* Fire.sks in Resources */ = {isa = PBXBuildFile; fileRef = F40FEBF527B1667B00FC6465 /* Fire.sks */; };
+		F40FEBF927B1667B00FC6465 /* SharpMagic.sks in Resources */ = {isa = PBXBuildFile; fileRef = F40FEBF627B1667B00FC6465 /* SharpMagic.sks */; };
+		F40FEBFA27B1667B00FC6465 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = F40FEBF727B1667B00FC6465 /* spark.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +30,9 @@
 		E53A4B6827B121EA00B76C00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E53A4B6A27B121EC00B76C00 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E53A4B6D27B121EC00B76C00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F40FEBF527B1667B00FC6465 /* Fire.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Fire.sks; sourceTree = "<group>"; };
+		F40FEBF627B1667B00FC6465 /* SharpMagic.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = SharpMagic.sks; sourceTree = "<group>"; };
+		F40FEBF727B1667B00FC6465 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 		E53A4B5C27B121EA00B76C00 /* Firework */ = {
 			isa = PBXGroup;
 			children = (
+				F40FEBF527B1667B00FC6465 /* Fire.sks */,
+				F40FEBF627B1667B00FC6465 /* SharpMagic.sks */,
+				F40FEBF727B1667B00FC6465 /* spark.png */,
 				E53A4B5D27B121EA00B76C00 /* AppDelegate.swift */,
 				E53A4B5F27B121EA00B76C00 /* GameScene.sks */,
 				E53A4B6127B121EA00B76C00 /* Actions.sks */,
@@ -131,7 +140,10 @@
 			files = (
 				E53A4B6927B121EA00B76C00 /* Main.storyboard in Resources */,
 				E53A4B6027B121EA00B76C00 /* GameScene.sks in Resources */,
+				F40FEBF927B1667B00FC6465 /* SharpMagic.sks in Resources */,
 				E53A4B6B27B121EC00B76C00 /* Assets.xcassets in Resources */,
+				F40FEBF827B1667B00FC6465 /* Fire.sks in Resources */,
+				F40FEBFA27B1667B00FC6465 /* spark.png in Resources */,
 				E53A4B6E27B121EC00B76C00 /* LaunchScreen.storyboard in Resources */,
 				E53A4B6227B121EA00B76C00 /* Actions.sks in Resources */,
 			);
